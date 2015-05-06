@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-  <groupId>org.apache</groupId>
+  <groupId>org.apache.poi</groupId>
   <artifactId>poi-bundle</artifactId>
   <versioning>
     <release>3.10.0</release>
